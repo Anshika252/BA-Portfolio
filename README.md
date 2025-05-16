@@ -12,11 +12,11 @@ Welcome to my professional portfolio! I'm a Business Analyst with 3+ years of ex
 | **Advanced SQL Certification.png** | Certificate highlighting my SQL proficiency for data querying and reporting |
 | **Certified Business Analyst Certificate.pdf** | ECBA certification issued by IIBA |
 | **Corporate & Business Strategy.pdf** | Key principles in business and product strategy |
-| **Dashboards & Data Visualization (1).pdf** | Visual storytelling and dashboarding concepts for reporting clarity |
+| **Dashboards & Data Visualization.pdf** | Visual storytelling and dashboarding concepts for reporting clarity |
 | **PMI Agile Certified Practitioner PMI_ACP.pdf** | Certification in Agile methodologies (PMI-ACP) |
 | **Programming Foundations - Code Reviews.pdf** | Best practices for structured code review and team feedback |
 | **Programming Foundations - Software Testing.pdf** | Basic understanding of QA and software testing |
-| **The Role of The FP&A Professional (2).pdf** | Financial planning and analysis certification demonstrating budgeting & forecasting skills |
+| **The Role of The FP&A Professional.pdf** | Financial planning and analysis certification demonstrating budgeting & forecasting skills |
 | **UX Foundations - Interaction Design.pdf** | Concepts of usability, user research, and interaction mapping |
 
 ---
