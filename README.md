@@ -1,48 +1,54 @@
-Business Analyst Documentation Portfolio
+# 📊 Business Analyst Portfolio – Anshika
 
-Welcome to my portfolio repository! This space showcases my work, certifications, and foundational knowledge as a Business Analyst. It includes sample documents, certifications, and references to process flows, user journeys, and strategy insights.
+Welcome to my professional portfolio! I'm a Business Analyst with 3+ years of experience across requirement gathering, stakeholder collaboration, Agile delivery, and data-driven decision-making. This repository showcases my work, certifications, and tools used throughout my journey.
 
 ---
 
-## 📄 Uploaded Files
+## 📁 Project Artifacts & Certifications
 
 | File Name | Description |
 |-----------|-------------|
-| **IMS System.pptx** | Wireframes and process flows for an Inventory Management System |
-| **Advanced SQL Certification.png** | Certification showcasing SQL expertise |
-| **Certified Business Analyst Certificate.pdf** | ECBA certificate from IIBA |
-| **Corporate & Business Strategy.pdf** | Business strategy and planning fundamentals |
-| **Dashboards & Data Visualization (1).pdf** | Concepts for effective dashboard creation |
-| **IIBA ECBA certificate (1).png** | Alternate view of ECBA certification |
-| **PMI Agile Certified Practitioner PMI_ACP.pdf** | Certification in Agile project management |
-| **Programming Foundations Conducting Code Reviews.pdf** | Understanding code reviews and feedback cycles |
-| **Programming Foundations Software Testing QA.pdf** | Basics of QA, software testing principles |
-| **The Role of The FP&A Professional (2).pdf** | Insight into financial planning & analysis (FP&A) |
-| **UX Foundations Interaction Design.pdf** | Fundamentals of user experience and interface design |
+| **IMS System.pptx** | Wireframes and user journey design for an Inventory Management System (IMS) |
+| **Advanced SQL Certification.png** | Certificate highlighting my SQL proficiency for data querying and reporting |
+| **Certified Business Analyst Certificate.pdf** | ECBA certification issued by IIBA |
+| **Corporate & Business Strategy.pdf** | Key principles in business and product strategy |
+| **Dashboards & Data Visualization (1).pdf** | Visual storytelling and dashboarding concepts for reporting clarity |
+| **PMI Agile Certified Practitioner PMI_ACP.pdf** | Certification in Agile methodologies (PMI-ACP) |
+| **Programming Foundations - Code Reviews.pdf** | Best practices for structured code review and team feedback |
+| **Programming Foundations - Software Testing.pdf** | Basic understanding of QA and software testing |
+| **The Role of The FP&A Professional (2).pdf** | Financial planning and analysis certification demonstrating budgeting & forecasting skills |
+| **UX Foundations - Interaction Design.pdf** | Concepts of usability, user research, and interaction mapping |
 
 ---
 
-## 🔧 Skills Represented
+## 🔧 Key Skills Showcased
 
-- Business Requirement Documentation (BRD), Functional Requirement Documentation (FRD)
-- Tes cases and scenerios
-- Functional Prototyping & Wireframing
-- Stakeholder Management
-- SQL, Python & Data Interpretation
-- Agile Methodologies (PMI-ACP Certified)
-- UX Design Thinking
-- Financial & Strategic Analysis
-- Quality Assurance & Code Review Understanding
+- Business Requirement Documentation (BRD)
+- Functional Prototyping & Wireframing (PPT/Figma)
+- Agile Frameworks & Certification (PMI-ACP)
+- Data Analysis & SQL (Certified)
+- Strategic Planning & FP&A
+- User Experience & Design Thinking
+- Software Development Fundamentals
 
 ---
 
-## ✨ Purpose of this Repository
+## 🎯 Purpose of This Repository
 
-This repository is intended to:
-- Act as a digital portfolio of my Business Analyst experience
-- Showcase documentation and certifications
-- Demonstrate the diversity of domains I’ve contributed to — from inventory systems to financial analytics
+This repository is a collection of:
+- My certifications and knowledge areas
+- Sample work I’ve contributed to as a Business Analyst
+- Demonstration of diverse domain exposure: Retail Tech, UX, Agile Delivery, and Data Analysis
 
 ---
 
-> 📬 *Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/anshikashukla2520) or reach out if you’d like to discuss these documents in detail!*
+## 📫 Let’s Connect !
+
+If you'd like to discuss collaboration or opportunities, feel free to connect:
+
+🔗 [LinkedIn]((https://www.linkedin.com/in/anshikashukla2520))  
+📧 anshikashukla2520@gmail.com
+
+---
+
+> Thank you for taking the time to explore my work!
